@@ -1,8 +1,25 @@
-<html>
-<head>
-<title>Test yaahh..</title>
-</head>
-<body>
-hooyyy....
-</body>
-</html>
+From be3717a569c0cabd1df3f1af8b2befd96db68a82 Mon Sep 17 00:00:00 2001
+From: Rockybest22 <andrasaleh@gmail.com>
+Date: Wed, 14 Jan 2015 15:28:04 +0700
+Subject: [PATCH] ini yang kedua loh
+
+---
+ kedua.txt  | 1 +
+ kedua.txt~ | 0
+ 2 files changed, 1 insertion(+)
+ create mode 100644 kedua.txt
+ create mode 100644 kedua.txt~
+
+diff --git a/kedua.txt b/kedua.txt
+new file mode 100644
+index 0000000..f2d8b82
+--- /dev/null
++++ b/kedua.txt
+@@ -0,0 +1 @@
++coba ahhhhhh
+diff --git a/kedua.txt~ b/kedua.txt~
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.1
+
